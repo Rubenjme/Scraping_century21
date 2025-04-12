@@ -16,3 +16,15 @@ Cada fila del archivo CSV contiene datos sobre un inmueble, incluyendo:
 - Baños completos
 - Aseos
 - Tamaño del terreno
+
+## Tecnologías utilizadas
+
+- Python
+- Jupyter Notebook
+
+Librerías:
+- requests
+- BeautifulSoup
+- pandas
+- time
+- random
