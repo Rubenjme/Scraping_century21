@@ -28,3 +28,9 @@ Librerías:
 - pandas
 - time
 - random
+
+## Posibles mejoras
+
+- Realizar scraping sobre una web dinámica y no fija.
+- Guardar los datos directamente en una base de datos SQL o NoSQL.
+- Añadir filtros de búsqueda personalizados.
